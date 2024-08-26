@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="App text-center">
       <h1>Events - useState Hook</h1>
-      {<Event />}
-      {<Counter />}
-      {<UseStateCounter />}
+      <Event />
+      <Counter />
+      <UseStateCounter />
       <UseStateObject />
     </div>
   );
