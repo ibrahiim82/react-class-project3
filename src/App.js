@@ -9,7 +9,7 @@ function App() {
       <h1>Events - useState Hook</h1>
       {<Event />}
       {<Counter />}
-      {/* <UseStateCounter /> */}
+      {<UseStateCounter />}
       <UseStateObject />
     </div>
   );
